@@ -1,6 +1,6 @@
 ### Hello! 👨🏻‍💻
 
-I'm a Project Instructor at Oregon State University's [Senior Capstone Design](https://eecs.oregonstate.edu/industry-relations/capstone-and-senior-design-projects).
+I'm a Project Instructor at Oregon State University's [Senior Capstone Design](https://eecs.oregonstate.edu/industry-relations/capstone-and-senior-design-projects)
 Team. My primary areas of work include - Software Engineerin, Software Project Mangement and Full stack web development.
 
 #### Currently
