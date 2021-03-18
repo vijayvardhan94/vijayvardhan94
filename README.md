@@ -1,16 +1,25 @@
-### Hi there 🙋🏻‍♂️
+### Hello! 👨🏻‍💻
 
-<!--
-**vijayvardhan94/vijayvardhan94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Project Instructor at Oregon State University's Senior Capstone Design Team.
 
-Here are some ideas to get you started:
+#### 🔭 I’m currently looking for new opportunities .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚡ Tech Stack
+
+Here are a few things I've picked up along my learning journey.
+
+* 🗣 Python | Java | SQL 
+* 🖇️ Django
+* 🛢️ MySQL | SQLite 
+* :octocat: Git | Github
+* 🌐 HTML | CSS
+* ☁ Firebase
+* 💠 Blender
+* 📟 Raspberry PI | Arduino | NodeMCU
+
+## 🌎 Places to find me on the web
+- LinkedIn - [Vijay Tadimeti](https://in.linkedin.com/in/vijaytadimeti)
+- Instagram - [vijaytadimeti](https://www.instagram.com/vijaytadimeti/)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vijayvardhan94/vijayvardhan94)
