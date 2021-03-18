@@ -6,7 +6,7 @@ Team. My primary areas of work include - Software Engineering, Software Project 
 #### Currently
 
 * Working on a variety of projects across various domains in computer science via our capstone program. 
-* Teach Software Engineering at Oregon State Univeristy. 
+* Teaching Software Engineering II at Oregon State Univeristy. 
 
 ## 🌎 Places to find me on the web
 - LinkedIn - [Vijay Tadimeti](https://in.linkedin.com/in/vijaytadimeti)
