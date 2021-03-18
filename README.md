@@ -1,22 +1,12 @@
 ### Hello! 👨🏻‍💻
 
-I'm a Project Instructor at Oregon State University's Senior Capstone Design Team.
+I'm a Project Instructor at Oregon State University's [Senior Capstone Design](https://eecs.oregonstate.edu/industry-relations/capstone-and-senior-design-projects).
+Team. My primary areas of work include - Software Engineerin, Software Project Mangement and Full stack web development.
 
-#### 🔭 I’m currently looking for new opportunities .
+#### Currently
 
-
-## ⚡ Tech Stack
-
-Here are a few things I've picked up along my learning journey.
-
-* 🗣 Python | Java | SQL 
-* 🖇️ Django
-* 🛢️ MySQL | SQLite 
-* :octocat: Git | Github
-* 🌐 HTML | CSS
-* ☁ Firebase
-* 💠 Blender
-* 📟 Raspberry PI | Arduino | NodeMCU
+* Working on a variety of projects across various domains in computer science via our capstone program. 
+* Teach Software Engineering at Oregon State Univeristy. 
 
 ## 🌎 Places to find me on the web
 - LinkedIn - [Vijay Tadimeti](https://in.linkedin.com/in/vijaytadimeti)
