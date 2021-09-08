@@ -10,6 +10,6 @@ Team. My primary areas of work include - Software Engineering, Software Project 
 
 ## 🌎 Places to find me on the web
 - LinkedIn - [Vijay Tadimeti](https://in.linkedin.com/in/vijaytadimeti)
-- Instagram - [vijaytadimeti](https://www.instagram.com/vijaytadimeti/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vijayvardhan94/vijayvardhan94)
+
+
